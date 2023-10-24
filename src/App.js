@@ -23,10 +23,10 @@ function App() {
         setImg(res.data.current.condition.icon)
         setText(res.data.current.condition.text)
         setShowWeather(true);
-        console.log(res.data.location.name);
-        console.log(res.data.current.temp_c);
-        console.log(res.data.current.condition.icon);
-        console.log(res.data.current.condition.text);
+        // console.log(res.data.location.name);
+        // console.log(res.data.current.temp_c);
+        // console.log(res.data.current.condition.icon);
+        // console.log(res.data.current.condition.text);
       } catch (error) {
       
         console.error("Erreur de requête:", error);
