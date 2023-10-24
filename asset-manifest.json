@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/raniaBchk/WeatherApp-React.git/static/css/main.f5ba007f.css",
-    "main.js": "/raniaBchk/WeatherApp-React.git/static/js/main.e951ad41.js",
-    "static/js/787.28cb0dcd.chunk.js": "/raniaBchk/WeatherApp-React.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/background.jpg": "/raniaBchk/WeatherApp-React.git/static/media/background.a42ba6f1c03ec5ce3ba7.jpg",
-    "index.html": "/raniaBchk/WeatherApp-React.git/index.html",
-    "main.f5ba007f.css.map": "/raniaBchk/WeatherApp-React.git/static/css/main.f5ba007f.css.map",
-    "main.e951ad41.js.map": "/raniaBchk/WeatherApp-React.git/static/js/main.e951ad41.js.map",
-    "787.28cb0dcd.chunk.js.map": "/raniaBchk/WeatherApp-React.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/WeatherApp-React/static/css/main.44249bf7.css",
+    "main.js": "/WeatherApp-React/static/js/main.c5592998.js",
+    "static/js/787.28cb0dcd.chunk.js": "/WeatherApp-React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.jpg": "/WeatherApp-React/static/media/background.a42ba6f1c03ec5ce3ba7.jpg",
+    "index.html": "/WeatherApp-React/index.html",
+    "main.44249bf7.css.map": "/WeatherApp-React/static/css/main.44249bf7.css.map",
+    "main.c5592998.js.map": "/WeatherApp-React/static/js/main.c5592998.js.map",
+    "787.28cb0dcd.chunk.js.map": "/WeatherApp-React/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5ba007f.css",
-    "static/js/main.e951ad41.js"
+    "static/css/main.44249bf7.css",
+    "static/js/main.c5592998.js"
   ]
 }
