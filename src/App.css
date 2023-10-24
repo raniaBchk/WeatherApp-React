@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.App{
+    background: #0f2751;
+    background: linear-gradient(rgba(0, 0, 0, 0.11),rgba(0,0,0,.418)),url(./assets/images/background.jpg);
+   background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-position: 50%;
+
+}
