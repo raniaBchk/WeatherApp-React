@@ -1,6 +1,9 @@
 {
  
-  "homepage":"https://github.com/raniaBchk/WeatherApp-React.git",
+
+  "homepage": "https://raniabchk.github.io/WeatherApp-React/",
+ 
+
   "name": "my-app",
  
 
@@ -92,8 +95,16 @@
    
 
   "eject": "react-scripts eject",
+ 
+
+   
+
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build" 
+ 
+
+   
+
+  "deploy": "gh-pages -d build"
  
 
   },
