@@ -15,7 +15,7 @@ function App() {
 
     const getTemp = async (r) => {
       try {
-        const res = await axios.get(`http://api.weatherapi.com/v1/current.json?key=645b41af71424389992191006232008&q=${r}&aqi=yes`);
+        const res = await axios.get(`https://api.weatherapi.com/v1/current.json?key=645b41af71424389992191006232008&q=${r}&aqi=yes`);
         
       
         setTemp(res.data.current.temp_c);
